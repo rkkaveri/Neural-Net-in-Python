@@ -50,8 +50,6 @@ class NeuralNetwork():
 
 
 
-
-
 if __name__ == '__main__':
 
     #initialise a single neuron neural network
