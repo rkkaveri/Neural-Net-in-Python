@@ -1,5 +1,5 @@
 from numpy import exp, array, random, dot
-
+#NumPy is a package in Python used for Scientific Computing.
 
 class NeuralNetwork():
     def __init__(self):
